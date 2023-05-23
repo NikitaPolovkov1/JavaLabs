@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Paper>
+    <Title>Butterfly</Title>
+    <Type>newspaper</Type>
+    <Monthly>12 a month</Monthly>
+    <CountPages>4</CountPages>
+    <Color>Not color</Color>
+    <Glossy>Not glossy</Glossy>
+    <SubsriptionIndex>22dd44</SubsriptionIndex>
+    <Chars>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </Chars>
+    <Title>Hasdasd</Title>
+    <Type>magazine</Type>
+    <Monthly>11 a month</Monthly>
+    <CountPages>100</CountPages>
+    <Color>color</Color>
+    <Glossy>Glossy</Glossy>
+    <SubsriptionIndex>11dd</SubsriptionIndex>
+    <Chars>
+        <item>5</item>
+        <item>2</item>
+        <item>4</item>
+    </Chars>
+    <Title>SDFhgbbbf</Title>
+    <Type>booklet</Type>
+    <Monthly>1 a month</Monthly>
+    <CountPages>1</CountPages>
+    <Color>color</Color>
+    <Glossy>Not glossy</Glossy>
+    <SubsriptionIndex>sdf</SubsriptionIndex>
+    <Chars>
+        <item>s</item>
+        <item>d</item>
+        <item>4</item>
+    </Chars>
+    <Title>Glosskfiwjhf</Title>
+    <Type>magazine</Type>
+    <Monthly>1 a month</Monthly>
+    <CountPages>100</CountPages>
+    <Color>color</Color>
+    <Glossy>Glossy</Glossy>
+    <SubsriptionIndex>33ddtt</SubsriptionIndex>
+    <Chars>
+        <item>a</item>
+        <item>g</item>
+        <item>4</item>
+    </Chars>
+</Paper>

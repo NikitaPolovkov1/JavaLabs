@@ -1,0 +1,114 @@
+
+    Butterfly
+    newspaper
+    12 a month
+    4
+    Not color
+    Not glossy
+    22dd44
+    
+        2
+        3
+        4
+    
+    Hasdasd
+    magazine
+    11 a month
+    100
+    color
+    Glossy
+    11dd
+    
+        5
+        2
+        4
+    
+    SDFhgbbbf
+    booklet
+    1 a month
+    1
+    color
+    Not glossy
+    sdf
+    
+        s
+        d
+        4
+    
+    Glosskfiwjhf
+    magazine
+    1 a month
+    100
+    color
+    Glossy
+    33ddtt
+    
+        a
+        g
+        4
+    
+
+    ButterflyButterfly
+    newspapernewspaper
+    12 a month12 a month
+    44
+    Not colorNot color
+    Not glossyNot glossy
+    22dd4422dd44
+    
+        2
+        3
+        4
+    
+        22
+        33
+        44
+    
+    HasdasdHasdasd
+    magazinemagazine
+    11 a month11 a month
+    100100
+    colorcolor
+    GlossyGlossy
+    11dd11dd
+    
+        5
+        2
+        4
+    
+        55
+        22
+        44
+    
+    SDFhgbbbfSDFhgbbbf
+    bookletbooklet
+    1 a month1 a month
+    11
+    colorcolor
+    Not glossyNot glossy
+    sdfsdf
+    
+        s
+        d
+        4
+    
+        ss
+        dd
+        44
+    
+    GlosskfiwjhfGlosskfiwjhf
+    magazinemagazine
+    1 a month1 a month
+    100100
+    colorcolor
+    GlossyGlossy
+    33ddtt33ddtt
+    
+        a
+        g
+        4
+    
+        aa
+        gg
+        44
+    
